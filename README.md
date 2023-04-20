@@ -60,7 +60,7 @@ function App() {
 }
 ```
 
-NOTE: 
+NOTE:  
 1/ When make changes on @kanalabs/aptos-kana-wallet-adapter project, in order to reflect the changes on React app.
 Follow these steps:
 
