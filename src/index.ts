@@ -62,7 +62,7 @@ export interface KanaWalletAdapterConfig {
   timeout?: number;
 }
 
-export class kanaWalletAdapter extends BaseWalletAdapter {
+export class KanaWalletAdapter extends BaseWalletAdapter {
   readonly name = KanaWalletName;
 
   readonly url =
